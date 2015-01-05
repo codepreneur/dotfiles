@@ -399,4 +399,3 @@ function! InlineVariable()
     :let @a = l:tmp_a
     :let @b = l:tmp_b
 endfunction
-nnoremap <leader>iv :call InlineVariable()<cr>
