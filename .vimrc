@@ -45,6 +45,7 @@ set cursorline
 set encoding=utf-8
 set fileencoding=utf-8
 set gdefault
+set mouse=a
 
 set guioptions-=Be
 set guioptions=aAc
